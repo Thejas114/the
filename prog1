@@ -1,0 +1,21 @@
+1. program1
+
+-> in Repo - file do1
+
+1) cd path  
+2) git clone URL
+3) cd do1
+4) git init  
+  
+5) git config --global user.email  
+6) git config --global user.name  
+7) nano first.txt
+8) git add first.txt  
+9) git commit -m "first file"  
+10) git status  
+11) git push  
+12) git pull  
+13) nano first.txt  
+14) git reset --hard  
+15) nano first.txt  
+16) git log
